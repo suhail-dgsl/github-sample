@@ -1,2 +1,2 @@
 # github-sample
-Repository for learning GitHub Actions
+This is a demo repository for learning Git and GitHub.
